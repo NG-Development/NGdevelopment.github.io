@@ -21,8 +21,9 @@
 }
 
 h1 {
+	text-align: center;
+	font-family: "Calibiri Light", Times, serif:
 	font-size: 30px;
-	font-family: "Times New Roman", Times, serif;
 }
 
 p {
@@ -45,11 +46,11 @@ i {
 <body>
 
 <div class="navbar">
-  <a href="https://github.com/NG-Development/ngdevelopment.github.io">Home</a>
+  <a href="index.html">Home</a>
   <a href="https://github.com/NG-Development/ngdevelopment">Source</a>
-  <a href="https://github.com/NG-Development/ngdevelopment/wiki">Wiki</a>
   <a href="UI.zip">Download</a>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuOWJlVYncAEF8vLQD_O1Oe-ZPZnFVOPijsamX-wzPCCNVdQ/viewform?c=0&w=1">Feedback</a>
+  <a href="download.html">Feedback</a>
+  <a href="https://github.com/NG-Development/ngdevelopment/wiki">Wiki</a>
 </div>
 
 <h1>NG DEVELOPMENT</h1>
