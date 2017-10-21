@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<style>
+.navbar {
+	overflow : hidden;
+	background-color: #233;
+	font-family: Arial;
+}
+
+.navbar a {
+	float: left;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: grey;
+}
+
+h1 {
+	font-size: 30px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+p {
+	font-size: 20px;
+	font-family: Arial;
+}
+
+i {
+	font-size: 22px;
+	font-family: Arial;
+}
+
+.show {
+    display: block;
+}
+	</style>
+</head>
+</style>
+</head>
+<body>
+
+<div class="navbar">
+  <a href="https://github.com/NG-Development/ngdevelopment.github.io">Home</a>
+  <a href="https://github.com/NG-Development/ngdevelopment">Source</a>
+  <a href="UI.zip">Download</a>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScuOWJlVYncAEF8vLQD_O1Oe-ZPZnFVOPijsamX-wzPCCNVdQ/viewform?c=0&w=1">Feedback</a>
+  <a href="https://github.com/NG-Development/ngdevelopment/wiki">Wiki</a>
+</div>
+
+
+
+<body>
+</html>
